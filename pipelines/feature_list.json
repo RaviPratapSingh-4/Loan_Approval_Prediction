@@ -1,0 +1,15 @@
+[
+  "Gender",
+  "Dependents",
+  "Self_Employed",
+  "CoapplicantIncome",
+  "Loan_Amount_Term",
+  "Credit_History",
+  "Property_Area",
+  "LTI",
+  "Binning",
+  "Stability",
+  "Income_by_Loan",
+  "Loan_to_Income",
+  "Balance_Income"
+]
