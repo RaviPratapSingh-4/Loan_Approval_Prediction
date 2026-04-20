@@ -1,8 +1,8 @@
 Attribute,Group,N,Accuracy,TPR (Recall),FPR
-Gender,Male,98,0.8061,0.8873,0.4074
-Gender,Female,25,0.88,0.9286,0.1818
-Married,No,44,0.7045,0.68,0.2632
-Married,Yes,79,0.8861,0.9833,0.4211
-Property_Area,Rural,34,0.6176,0.7273,0.5833
-Property_Area,Semiurban,49,0.9388,0.9722,0.1538
-Property_Area,Urban,40,0.85,0.9259,0.3077
+Gender,Male,98,0.7959,0.8732,0.4074
+Gender,Female,25,0.84,0.8571,0.1818
+Married,No,44,0.7273,0.68,0.2105
+Married,Yes,79,0.8481,0.95,0.4737
+Property_Area,Rural,34,0.5588,0.6364,0.5833
+Property_Area,Semiurban,49,0.9184,0.9722,0.2308
+Property_Area,Urban,40,0.875,0.9259,0.2308
